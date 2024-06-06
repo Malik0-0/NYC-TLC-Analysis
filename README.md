@@ -86,9 +86,9 @@ This project was completely built using the tools:
 ### Tableau & Installation
 
 1. Tableau Publication
-   Dashboard: https://public.tableau.com/app/profile/malik.alrasyid/viz/DashboardCapstone_17176760148040/Dashboard
-   Story: https://public.tableau.com/app/profile/malik.alrasyid/viz/StoryCapstone/FairTransportationFare
-2. Clone the repo
+   - Dashboard: https://public.tableau.com/app/profile/malik.alrasyid/viz/DashboardCapstone_17176760148040/Dashboard
+   - Story: https://public.tableau.com/app/profile/malik.alrasyid/viz/StoryCapstone/FairTransportationFare
+3. Clone the repo
    ```sh
    git clone https://github.com/Malik0-0/NYC-TLC-Analysis.git 
    ```
